@@ -1,7 +1,7 @@
 Package: breastCancerMAINZ
 Type: Package
 Title: Gene expression dataset published by Schmidt et al. [2008] (MAINZ).
-Version: 1.36.0
+Version: 1.37.0
 Date: 2011-02-10
 Description: Gene expression data from the breast cancer study published by Schmidt et al. in 2008, provided as an eSet.
 biocViews: ExperimentData, CancerData, BreastCancerData, MicroarrayData, GEO
